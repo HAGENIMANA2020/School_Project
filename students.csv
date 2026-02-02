@@ -1,4 +1,1 @@
-Name,ID,Class,Marks,Fees_Paid
-NIYONSHUTI,STU-2,L3 ELT,100,0.0
-ERIC NSHIMIYIMANA,STU-3,L4 ELT,100,0.0
-ERIC NSHIMIYIMANA,STU-3,L5 ELT,100,0.0
+ID,Name,Class,Parent,Math,Eng,Phys,Discipline,Fees
